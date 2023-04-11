@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayank Parmar</h1>
 <h3 align="center">A passionate backend developer from India , but I also work on DevOps part.</h3>
 
-- 🔭 I’m currently working with [Sharechat as Technical Lead ](https://sharechat.com/)
+- 🔭 I’m currently working with [Sharechat as Technical Lead](https://sharechat.com/)
 
 - 🌱 I’m currently learning **Golang,Kubernetes and Distributed Systems**
 
